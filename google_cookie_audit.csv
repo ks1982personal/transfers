@@ -1,0 +1,27 @@
+﻿Cookie Name,Domain,Consent Category,Type,Typical Lifespan,Audit Description
+__Secure-1PAPISID,.google.com,Marketing / Targeting,Persistent,13 months–2 years,Stores user preferences and builds an interest profile to serve personalised Google ads across first-party Google services.
+__Secure-1PAPISID,.google.co.uk,Marketing / Targeting,Persistent,13 months–2 years,Regional UK equivalent; stores user preferences and builds a profile for personalised ads on .google.co.uk.
+__Secure-1PSID,.google.co.uk,Strictly Necessary,Persistent,13 months–2 years,High-security first-party authentication cookie containing encrypted records of the user's Google Account ID and recent sign-in time.
+__Secure-1PSIDRTS,.google.com,Strictly Necessary,Persistent,1 year,Stores a security rotation timestamp (RTS) used to refresh session credentials and prevent fraudulent login activity.
+__Secure-1PSIDTS,.google.com,Strictly Necessary,Persistent,1 year,Stores an encrypted timestamp (TS) that maintains active session integrity and preserves user preferences across Google services.
+__Secure-3PAPISID,.google.com,Marketing / Targeting,Persistent,13 months–2 years,"Builds a profile of user interests to serve relevant ads across non-Google websites that embed Google services (e.g., YouTube, Maps)."
+__Secure-3PAPISID,.google.co.uk,Marketing / Targeting,Persistent,13 months–2 years,Regional UK equivalent; tracks user preferences across third-party sites with embedded Google tools to personalise ads.
+__Secure-3PSID,.google.com,Marketing / Targeting,Persistent,13 months–2 years,Authenticates users and supports ad targeting across third-party websites that integrate Google sign-in or embedded media.
+__Secure-3PSID,.google.co.uk,Marketing / Targeting,Persistent,13 months–2 years,Regional UK equivalent; maintains user authentication and supports ad personalisation across external sites.
+__Secure-3PSIDCC,.google.com,Strictly Necessary,Persistent,1 year,Security cookie that protects user data from unauthorised access and prevents spam or fraud on third-party sites with Google integrations.
+__Secure-3PSIDRTS,.google.com,Strictly Necessary,Persistent,1 year,Stores a rotation timestamp (RTS) to periodically refresh session security tokens across third-party Google embeds.
+__Secure-3PSIDTS,.google.com,Marketing / Targeting,Persistent,1 year,Stores an encrypted timestamp (TS) to maintain session security and user identification across embedded Google services on other sites.
+APC,.doubleclick.net,Marketing / Targeting,Persistent,3 days–6 months,"Used by Google's advertising network (Campaign Manager / DV360) to deliver relevant ads, measure campaign performance, and prevent ad fraud."
+APISID,.google.com,Marketing / Targeting,Persistent,13 months–2 years,Stores user preferences and information when viewing pages with embedded Google services (like Maps or YouTube) to personalise content and ads.
+APISID,.google.co.uk,Marketing / Targeting,Persistent,13 months–2 years,Regional UK equivalent; remembers user settings and supports personalised advertising on .google.co.uk.
+GCL_DC_P,.doubleclick.net,Marketing / Targeting,Persistent,90 days,Conversion-linker cookie used by DoubleClick and Search Ads 360 to attribute website actions (such as purchases or form fills) back to ad clicks.
+HSID,.google.co.uk,Strictly Necessary,Persistent,13 months–2 years,Contains encrypted records of a user's Google Account ID and sign-in time; works alongside SID to prevent form-stealing and cross-site request forgery attacks.
+HSID,.google.com,Strictly Necessary,Persistent,13 months–2 years,Global equivalent; authenticates the user's identity and secures form submissions against malicious tampering.
+IDE,.doubleclick.net,Marketing / Targeting,Persistent,13 months,Primary DoubleClick advertising cookie used to register and report user actions after viewing or clicking an ad to measure effectiveness and serve targeted ads.
+SAPISID,.google.co.uk,Marketing / Targeting,Persistent,13 months–2 years,Stores user preferences (such as language) and collects browsing data to display personalised ads and play embedded YouTube videos.
+SAPISID,.google.com,Marketing / Targeting,Persistent,13 months–2 years,Global equivalent; retains user preferences and enables personalised advertising and embedded Google media.
+SID,.google.co.uk,Strictly Necessary,Persistent,13 months–2 years,Contains digitally signed and encrypted records of a user's Google Account ID and last sign-in time to authenticate the user and block unauthorised access.
+SID,.google.com,Strictly Necessary,Persistent,13 months–2 years,Global equivalent; verifies user login state and works with HSID to protect Google account sessions.
+SIDCC,.google.com,Strictly Necessary,Persistent,1 year,"Security cookie that protects user data from unauthorised access and helps detect spam, fraud, and abuse."
+SSID,.google.com,Functional / Preferences,Persistent,13 months–2 years,Stores information about how the user interacts with Google services and remembers interface preferences like language and search settings.
+SSID,.google.co.uk,Functional / Preferences,Persistent,13 months–2 years,Regional UK equivalent; remembers user settings and preferences for .google.co.uk.
